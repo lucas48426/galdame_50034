@@ -1,0 +1,5 @@
+
+for (x = 5; x < 20; x++) {
+    printf("Ejemplo correcto");
+    break;
+}

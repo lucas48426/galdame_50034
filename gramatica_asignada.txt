@@ -1,0 +1,63 @@
+programa: inatrucciones,
+Instrucciones:
+Instrucción
+| Instrucciones Instrucción
+
+Instrucción: bucle;
+bucle:
+"for" "(" Inicializacion ";" condicion ";" actualizacion "] "{ sentencla "F
+
+Inicializacion:
+Identificador """ numero
+
+condiicion:
+identificador operador_relacional numero
+
+actualizacion:
+Identificador operador_Incremento
+
+operador_relacional:
+
+operador_Incremento:
+
+sentencia:
+
+salida
+
+I salida sentencia
+terminar
+
+salida:
+"printf "[" cadena "]"";
+
+terminar:
+"break" ";"
+
+Identificador:
+letra { letra | diigito }
+
+numera:
+[digito }+
+
+cadena:
+T" caracteres "
+
+caracteres:
+
+caracter
+
+caracteres caracter
+
+caracter:
+
+letra
+
+| digito
+
+simbolo
+
+letra:
+
+digito:
+
+simbolo:

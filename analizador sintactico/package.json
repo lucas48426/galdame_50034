@@ -1,0 +1,16 @@
+{
+  "name": "mi-gramatica-parser",
+  "version": "1.0.0",
+  "description": "Analizador para subconjunto de C",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "generate": "antlr4 -Dlanguage=JavaScript MiGramatica.g4 -o parser/ -visitor -listener"
+  },
+  "dependencies": {
+    "antlr4": "^4.9.3"
+  },
+  "devDependencies": {
+    "antlr4ts": "^0.5.0-alpha.4"
+  }
+}
