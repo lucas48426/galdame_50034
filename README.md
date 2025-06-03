@@ -13,4 +13,4 @@ Paquete antlr4 instalado
 
 Instalación:
 Clonar el repositorio:
-git clone https://github.com/galdame/50034.git cd 50034/analizador-sintactico desde este enlace se puede clonar el repositorio el repositorio se clona ejecutando ese comando en el power shell o cmd de windows o en la terminal de linux
+git clone https://github.com/lucas48426/galdame_50034.git cd 50034/analizador-sintactico desde este enlace se puede clonar el repositorio el repositorio se clona ejecutando ese comando en el power shell o cmd de windows o en la terminal de linux
